@@ -11,11 +11,11 @@
         GNU General Public License for more details.
 
         You should have received a copy of the GNU General Public License
-        along with this program.  If not, see <http://www.gnu.org/licenses/>.*/-->
+        along with this program.  If not, see <http://www.gnu.org/licenses/>.-->
 
-    <!-- Base application theme. -->
+    <!--Baseapplicationtheme-->
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
-        <!-- Customize your theme here. -->
+        <!--Customizeyourthemehere-->
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
@@ -25,7 +25,7 @@
     </style>
 
     <style name="AppThemeDark" parent="Theme.AppCompat">
-        <!-- Customize your theme here. -->
+        <!--Customizeyourthemehere-->
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
